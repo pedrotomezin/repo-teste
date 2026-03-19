@@ -2,3 +2,5 @@ Testando atualização de arquivo
 Oii
 aaaa
 nova funcionalidade
+novo texto
+hello friend
